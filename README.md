@@ -11,7 +11,7 @@ Content and Video Sample Player:
 
 Download Release Devlog 001 Alpha:
 
-Suport me: [Buy me a coffee](https://ko-fi.com/daydev "Buy me a Coffee")
+Support me: [Buy me a coffee](https://ko-fi.com/daydev "Buy me a Coffee")
 
 Windows Platfrom:
 [Windows 64Bit](https://drive.google.com/file/d/1iU65Kyj4kLXtmbfBvE1-lykYXkgKufGV/view?usp=sharing  "Windows 64 Bit")
